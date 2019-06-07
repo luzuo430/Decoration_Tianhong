@@ -1,3 +1,4 @@
-## Welcome to Youliang Zhong's Homepage
+# 天鸿装修记录
 
-[Quasi-trees and geodesic trees](doc/Quasi-trees-and-geodesic-trees.html) [pdf](doc/Quasi-trees-and-geodesic-trees.pdf)
+## 施工
+[施工预算及细节](doc/施工预算.html)
